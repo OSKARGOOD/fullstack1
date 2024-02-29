@@ -1,4 +1,4 @@
-import React, { useState } from 'react' 6.9k (gzipped: 2.7k)
+import React, { useState } from 'react' 
 import './NavBar.css'
 
 import logo from '../Assets/logo.png'
